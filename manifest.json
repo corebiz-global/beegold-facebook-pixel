@@ -1,7 +1,7 @@
 {
   "vendor": "beegold",
   "name": "pixel-facebook-beegold",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Facebook Pixel",
   "description": "Integrate with Facebook advertising tools.",
   "defaultLocale": "pt-BR",
